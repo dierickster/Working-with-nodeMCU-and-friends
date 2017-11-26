@@ -23,11 +23,11 @@ Unlike the original board the nodeMCU can be used with a breadboard, and has the
 
 Being more costly than the ESP8266 board (about 4-5 times more expensive) the development board is still pretty cheap. The ESP32 board is firmly soldered onto the nodeMCU. Until now, I've never seen a true development board where the ESP32 can be interchanged, and after development and programming be put into the final target enviroment. 
 
-Anyhow, it seems that nodeMCU or its friends are here to stay! 
+Anyhow, it seems that nodeMCU or its friends are here to stay, and will partly become a part of the IoT reality around us! In my house its infiltration and replacement of traditional devices is already noticable.
 
 So far this introduction, which I've written mostly for my own pleasure.
 
-What you may expect here? 
+## What to expect here? 
 
 I will use this space for accumulating my experience with and thoughts about nodeMCU and its friends. Many of the items will be just *placeholders* for my personal sticky yellow notes and other volatile notes. Over time some may items may materialise into more mature features. 
 
