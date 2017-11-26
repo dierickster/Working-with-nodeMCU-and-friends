@@ -3,7 +3,7 @@
 ## Introduction 
 Almost a revolution in the field of Domotics and related fields was started in late 2014 with the introduction of a very cheap device, the ESP8266. This very cheap, poststamp sized device is able of doing Arduino-like things, and even has one more trick up his sleeves.
 
-Until then many enthusiastics around the globe mostly used Arduino at first, and a few years later some switched to Raspberry Pi, for their home brewn automation tasks. Being a myself, I was mesmerized by the possibilities of both platforms when I first got to know them. 
+Until then many enthusiastics around the globe mostly used Arduino at first, and a few years later some switched to Raspberry Pi, for their home brewn automation tasks. Being a software and hardware developer myself, I was mesmerized by the possibilities of both platforms when I first got to know them. 
 
 Although totally different in nature - both systems have specific strong and weak points - they are pretty capable of doing many of the things you ever wanted to do with, or perhaps even did, with earlier predecessor systems. 
 
