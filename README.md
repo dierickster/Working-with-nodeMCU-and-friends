@@ -21,7 +21,7 @@ With the introduction of *nodeMCU* and its associated development boards, some o
 
 Unlike the original board the nodeMCU can be used with a breadboard, and has the programming interface and USB connector integrated. Being more costly than the ESP8266 board (about 4-5 times more expensive) the development board is still pretty cheap. The ESP32 board is firmly soldered onto the nodeMCU. Until now, I've not seen a true development board where the ESP32 can be interchanged and after development and programmed put into the final target enviroment. 
 
-
+What you can expect here (after this long introduction): I will use this space for accumulating my experience with and thoughts about *nodeMCU* and its friends.
 
 
 
