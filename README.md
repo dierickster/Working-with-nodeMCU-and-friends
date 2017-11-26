@@ -15,7 +15,7 @@ When I joined the ESP8266 bandwagon first, a few months after its introduction, 
 
 A major hurdle was that it is a true 3V3 device, which required some kind of voltage leveling when you want to program it with USB from a PC. After a while cheap programming interfaces arrived on the market. Additionally the Arduino community quickly brought us the possibility to program a ESP8266 as an Arduino sketch, where ESP8266 must be selected as the target board (mimicing an Arduino). 
 
-Now the original family of cheap ESP8266 boards could be programmed more easy with the use of an additional breakout board, while it would run it *sketch* afterwards without it. A drawback of the original family of cheap ESP8266 boards is that they offers only a few of the GPIO pins to the outside world, while much more are available internally. For most small hobby projects this is sufficient, but limiting for others. Programming a sketch in the Arduino *C*-like language is considered awkward by some due to its technical nature. 
+Now the original family of cheap ESP8266 boards could be programmed with the use of an additional breakout board, while it would run its *sketch* afterwards without it. A drawback of the original family of cheap ESP8266 boards is that they offers only a few of the GPIO pins to the outside world, while much more are available internally. For most small hobby projects this is sufficient, but limiting for others. Programming a sketch in the Arduino *C*-like language is considered awkward by some due to its technical nature. 
 
 With the introduction of *nodeMCU* and its associated development boards, some of the drawbacks were mitigated. Current development boards, which are commonly refered to as *nodeMCU*, piggyback the ESP32 board, which is a newer and more elaborated version of the original ESP8266 boards.  
 
@@ -23,7 +23,7 @@ Unlike the original board the nodeMCU can be used with a breadboard, and has the
 
 Being more costly than the ESP8266 board (about 4-5 times more expensive) the development board is still pretty cheap. The ESP32 board is firmly soldered onto the nodeMCU. Until now, I've never seen a true development board where the ESP32 can be interchanged, and after development and programming be put into the final target enviroment. 
 
-So far the introduction. What may you expect here: I will use this space for accumulating my experience with and thoughts about *nodeMCU* and its friends.
+So far the introduction. What may you expect here: I will use this space for accumulating my experience with and thoughts about *nodeMCU* and its friends. 
 
 Many of them will be just *placeholders* for sticky yellow notes, some may be more mature. If you have any additions, your input is welcome!
 
