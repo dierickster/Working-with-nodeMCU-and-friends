@@ -35,8 +35,7 @@ I will use this space for accumulating my experience with and thoughts about nod
 
 If you have any additions or remarks, your input is welcome!
 
-
-
+Code resides in the repository. Other documents live in the wiki. 
 
 
 
