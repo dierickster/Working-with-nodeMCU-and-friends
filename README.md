@@ -7,7 +7,7 @@ Until then many enthusiastics around the globe used Arduino at first, and a few 
 
 Although totally different in nature - both systems have specific strong and weak points - they are pretty capable of doing many of the things you ever wanted to do with, or perhaps even did, with earlier predecessor systems. 
 
-Both Arduino and Raspberry Pi have what are called GPIO pins. GPIO stands for *General Input and Output pins* and gives us an interface for working with analog input and output (e.g. buttons and LED's), but also PWM and I2S. Many nice software libraries and additional hardware boards which interact with GPIO are available. An essential way of communicating with a more or less standalone device is WiFi. Arduino has several additional hardware *HAT*s for that purpose which can be bought separately and communicate through the GPIO pins. Early Raspberry Pi's offered WiFi with the use of an additional USB device. 
+Both Arduino and Raspberry Pi have what are called GPIO pins. GPIO stands for *General Input and Output pins* and gives us an interface for working with analog input and output (e.g. buttons and LED's), but also PWM and I2S. Many nice software libraries and additional hardware boards which interact with GPIO are available. An essential way of communicating with a more or less standalone device is WiFi. Arduino has several additional hardware *HAT*s for that purpose which can be bought separately and communicate through the GPIO pins. Early Raspberry Pi's offered WiFi with the use of an additional USB device. Recent Pi's are available with WiFi incorporated.
 
 As all ESP8266 devices come with onboard WiFi this was and probably is a very unique property, considering price, speed of the device, footprint and other aspects.
 
