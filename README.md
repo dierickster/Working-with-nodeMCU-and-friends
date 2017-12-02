@@ -1,5 +1,14 @@
 # Working with nodeMCU and friends in the IoT era
 
+## What to expect here? 
+
+I will use this space for accumulating my experience with and thoughts about nodeMCU and its friends. Many of the items will be just *placeholders* for my personal sticky yellow notes and other volatile notes. Over time some may items may materialise into more mature features. 
+
+If you have any additions or remarks, your input is welcome!
+
+Code resides in the repository. Other documents live in the wiki: https://github.com/dierickster/Working-with-nodeMCU-and-friends/wiki
+
+
 ## Introduction 
 Almost a revolution in the field of Domotics and related fields was started in the beginning of 2014 with the introduction of the ESP8266 device. This very cheap, poststamp sized *board* is able of doing Arduino-like things, and even has one more special trick up his sleeves.
 
@@ -28,17 +37,6 @@ Being more costly than the ESP8266 board (about 4-5 times more expensive) the de
 Anyhow, it seems that nodeMCU or its friends are here to stay, and will partly become a part of the IoT reality around us! In my house its infiltration and replacement of traditional devices is already noticable.
 
 So far this introduction, which I've written mostly for my own pleasure.
-
-## What to expect here? 
-
-I will use this space for accumulating my experience with and thoughts about nodeMCU and its friends. Many of the items will be just *placeholders* for my personal sticky yellow notes and other volatile notes. Over time some may items may materialise into more mature features. 
-
-If you have any additions or remarks, your input is welcome!
-
-Code resides in the repository. Other documents live in the wiki: https://github.com/dierickster/Working-with-nodeMCU-and-friends/wiki
-
-
-
 
 
 
